@@ -1,0 +1,3 @@
+Actualizar PowerShell 
+1-abrir Cmd  como administrador 
+2-winget install --id Microsoft.PowerShell --source winget
